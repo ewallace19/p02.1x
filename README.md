@@ -4,6 +4,7 @@ Feel free to keep coming back to these as you go through the course. The notes f
 
 # Problems
 
+* [ ] death_and_taxes
 * [ ] truth_table
 - [ ] sequences
 * [ ] palindromes
