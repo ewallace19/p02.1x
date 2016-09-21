@@ -4,10 +4,10 @@ Feel free to keep coming back to these as you go through the course. The notes f
 
 # Problems
 
+* [ ] truth_table
 - [ ] sequences
 * [ ] palindromes
 * [ ] odd_rounding
-* [ ] 
 
 
 # Conditionals - If/Elif/Else
