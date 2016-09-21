@@ -1,10 +1,13 @@
 This problem set is an extension to p02.1.  You should complete those problems before attempting any of these - these problems are designed to be **hard**.
 
-Feel free to keep coming back to these as you go through the course. The notes from p02.1 have been repeated below, there's nothing new there.
+Feel free to keep coming back to these as you go through the course. The notes from p02.1 have been repeated below for reference, but there is nothing new there.
 
 # Problems
 
 - [ ] sequences
+* [ ] palindromes
+* [ ] odd_rounding
+* [ ] 
 
 
 # Conditionals - If/Elif/Else
