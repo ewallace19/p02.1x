@@ -52,4 +52,11 @@ def run_tests():
 
 # Edit this function
 def truth_table(a, b, c):
+    bob = (a + b + c)
+
+    if bob == 1 or bob == 3:
+        print("1")
+
+    else:
+        print("0")
 
